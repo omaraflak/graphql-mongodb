@@ -17,5 +17,5 @@ user(_id: String!): user
 # Mutation
 
 ```
-createUser(name: String!age: Int!): user
+createUser(name: String!, age: Int!): user
 ```
